@@ -1,0 +1,6 @@
+ConfigArgParse
+torch
+torchvision
+PyYAML
+scikit-learn
+terminaltables
